@@ -1,3 +1,4 @@
+package BaiTapChuong3;
 import java.util.Scanner;
 
 public class Student {
