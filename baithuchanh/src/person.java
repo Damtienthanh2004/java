@@ -1,4 +1,4 @@
-package BaiTapChuong3;
+
 
 public class person {
     public String HoTen;
