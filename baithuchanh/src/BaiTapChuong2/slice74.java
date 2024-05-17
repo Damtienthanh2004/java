@@ -1,4 +1,4 @@
-package BaiTapChuong2;
+package BaiTapchuong2;
 import java.util.Scanner;
 
 public class slice74 {
