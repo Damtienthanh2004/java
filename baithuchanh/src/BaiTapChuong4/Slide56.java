@@ -12,7 +12,7 @@ public class Slide56 {
         HSH.add("Book");
         HSH.add("Apple");
         HSH.add("Samsung");
-        HSH.add("Lenovo");
+        HSH.add("VIVO");
         HSH.add("Facebook");
         System.out.println("Cac phan tu trong mang HSH: " + HSH);
         System.out.println("Nhap vao phan tu muon xoa: ");

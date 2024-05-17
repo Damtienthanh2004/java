@@ -12,7 +12,7 @@ public class Slide69 {
         TS.add(4);
         TS.add(3);
         TS.add(6);
-        TS.add(8);
+        TS.add(9);
         TS.add(10);
         System.out.println("Danh sach ban dau: " + TS);
         System.out.println("Nhap vao phan tu muon them: ");

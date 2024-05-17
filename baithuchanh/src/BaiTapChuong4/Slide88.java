@@ -11,13 +11,13 @@ public class Slide88 {
         HMCity.put("HN", "Ha Noi");
         HMCity.put("HP", "Hai Phong");
         HMCity.put("QN", "Quang Ninh");
-        System.out.println("Danh sach cac thanh pho trong Hashmapcity: " + HMCity);
+        System.out.println("Danh sach cac thanh pho trong hashmapcity: " + HMCity);
         Set<Map.Entry<String, String>> setCity = HMCity.entrySet();
         System.out.println(setCity);
         System.out.println("BG: " + HMCity.get("BG"));
         System.out.println("BN: " + HMCity.get("BN"));
         if (HMCity.containsValue("Ha Noi")){
-            System.out.println("co thanh pho Ha Noi trong Hashmapcity");
+            System.out.println("co thanh pho Ha Noi trong hashmapcity");
         }
     }
 }

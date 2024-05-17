@@ -10,7 +10,7 @@ public class Slide86 {
     HashMap<String, String> HM = new HashMap<>();
     HM.put("Java","JV");
     HM.put("Book", "BK");
-    HM.put("Banana", "BN");
+    HM.put("Banana", "BNN");
     HM.put("GYM", "GYM");
     Set<Map.Entry<String, String>> setHashMap = HM.entrySet();
     System.out.println("cac entry co trong setHashMap: ");

@@ -14,7 +14,7 @@ public class Slide54 {
         HSI.add(2);
         HSI.add(7);
         HSI.add(6);
-        HSI.add(8);
+        HSI.add(9);
         System.out.println("Cac phan tu trong ham Hashsetinterger: " + HSI);
         System.out.println("Nhap vao phan tu can them: ");
         Number = scanner.nextInt();

@@ -11,7 +11,7 @@ public class Slide106 {
         treeMap.put(5, 'B');
         treeMap.put(1, 'C');
         treeMap.put(2, 'D');
-        treeMap.put(8, 'E');
+        treeMap.put(8, 'F');
         Set<Entry<Integer, Character>> setTreeMap = treeMap.entrySet();
         System.out.println("Cac entry co trong setTreeMap: ");
         System.out.println(setTreeMap);

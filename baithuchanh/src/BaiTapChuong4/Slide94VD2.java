@@ -6,7 +6,7 @@ public class Slide94VD2 {
         LinkedHashMap<Integer, String> linkedHashMap = new LinkedHashMap<Integer, String>();
         linkedHashMap.put(1, "Java");
         linkedHashMap.put(3,"C++");
-        linkedHashMap.put(2,"PHP");
+        linkedHashMap.put(2,"Excel");
         linkedHashMap.put(4,"Python");
         System.out.println("Truoc khi xoa: ");
         show(linkedHashMap);

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Slide60 {
     public static void main(String[] args) {
         Set<String> LHS = new LinkedHashSet<String>();
-        LHS.add("Java");
+        LHS.add("Python");
         LHS.add("Book");
         LHS.add("Facebook");
         LHS.add("Apple");
