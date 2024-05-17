@@ -11,6 +11,7 @@ public class Slide88 {
         HMCity.put("HN", "Ha Noi");
         HMCity.put("HP", "Hai Phong");
         HMCity.put("QN", "Quang Ninh");
+        HMCity.put("HCM", "tp Ho Chi Minh");
         System.out.println("Danh sach cac thanh pho trong hashmapcity: " + HMCity);
         Set<Map.Entry<String, String>> setCity = HMCity.entrySet();
         System.out.println(setCity);
