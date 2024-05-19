@@ -23,7 +23,7 @@ public class Bai2 {
             double avg = (double) sum/count;
             System.out.println("Trung binh cong cua cac so chan la: " + avg);
         }else{
-            System.out.println("Khong co so chan trong danh sach");
+            System.out.println("Khong co so chan nao trong danh sach");
         }
     }
 }
