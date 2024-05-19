@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai5_silde94 {
+public class Bai5_silde94 {
     public static void main(String[] args) {
         int a;
         int sum = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai3_slice93 {
+public class Bai3_slice93 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai9_slice96 {
+public class Bai9_slice96 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("nhap vao mot chuoi bat ky: ");

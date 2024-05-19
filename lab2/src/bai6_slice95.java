@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bai6_slice95 {
+public class Bai6_slice95 {
     public static void main(String[] args) {
         int n;
         int temp = 1;
