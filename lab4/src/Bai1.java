@@ -1,5 +1,6 @@
-import java.util.*;
-
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Scanner;
 public class Bai1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
