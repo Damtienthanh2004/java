@@ -6,20 +6,18 @@ public class DTT739Person {
     public String GioiTinh;
     public void NhapThongTin(){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Nhap Ten : ");
+        System.err.println("Nhap ten: ");
         Name = scanner.nextLine();
-        System.out.println("Nhap Tuoi: ");
+        System.out.println("Nhap tuoi: ");
         Tuoi = scanner.nextInt();
-        System.out.println("Nhap Gioi Tinh: ");
+        System.out.println("Nhap gioi tinh: ");
         GioiTinh = scanner.nextLine();
     }
     public void XuatThongTin(){
-        System.out.println("Ten: " + Name);
-        System.out.println("Tuoi: " + Tuoi);
-        System.out.println("Gioi Tinh: " + GioiTinh);
+        System.out.println("Ten: " + Name + "Tuoi: " + Tuoi + "Gioi tinh: " + GioiTinh);
     }
     }
     public static void main(String[] args) throws Exception {
-        
+
     }
 
